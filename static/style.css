@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Shadows+Into+Light&display=swap');
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #e8e7df;
+    margin: 0;
+    padding: 0;
+}
+
+.gold-divider {
+  width: 2px;
+  height: 200px;
+  background-color: #d7cbb3; /* Light golden */
+  margin: 0 30px;
+}
+
+.vsb-main {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+
